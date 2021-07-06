@@ -1,4 +1,4 @@
-﻿
+﻿//3D navigation
 #include <math.h>
 #include <gl\glut.h>
 #include <gl\gl.h>
