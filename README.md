@@ -1,8 +1,7 @@
 # Computer_Graphics
 Graphics using openGL
 
-#예시 화면
-
+#예시 화면  #시점좌표계 구현 (앞, 뒤, 오른쪽, 왼쪽, 위, 아래 이동)
 
 ![그림1](https://user-images.githubusercontent.com/76687318/124575206-286abd80-de86-11eb-89b6-179781a63307.png)
 ![그림2](https://user-images.githubusercontent.com/76687318/124575214-2b65ae00-de86-11eb-9f4f-e37ea7560a62.png)
